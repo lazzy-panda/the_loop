@@ -1,4 +1,4 @@
-import {english_full, team} from '../assets';
+import {team} from '../assets';
 
 const Team = () => {
     return (
