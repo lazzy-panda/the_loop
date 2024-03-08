@@ -155,7 +155,7 @@ html {
 
 @media (max-width: 600px) {
     html {
-        font-size: 13px;
+        font-size: 15px;
     }
     .left-col {
         display: none;
